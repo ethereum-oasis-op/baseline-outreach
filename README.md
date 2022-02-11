@@ -5,7 +5,7 @@ The Baseline Outreach team is a group of seasoned community members focused on c
 
 The Outreach team is split into working groups with focuses and objectives, which includes devising enablement and pitch decks for specific companies use cases, creating marketing and social media content, and onboarding new members of the community. 
 
-We encourage everyone interested in contributing to Outreach efforts and proposing new ones, to join the team! 
+We encourage everyone interested in contributing to Outreach efforts and proposing new ones, to [join the team](https://www.signupgenius.com/go/baselineoutreachteam)!
 
 
 ## Repo
