@@ -9,7 +9,8 @@ We encourage everyone interested in contributing to Outreach efforts and proposi
 
 
 ## Repo
-This repo is the location for all open and complete projects and tasks being worked on across the Outreach team working groups. The ‘Materials’ folder will soon contain enablement and pitch decks, community member starter kits, and more. 
+This repo is the location for all open and complete projects and tasks being worked on across the Outreach team working groups. 
+Coming Soon-‘Materials’ folder with enablement and pitch decks, community member starter kits, and more. 
 
 
 ## Resources
