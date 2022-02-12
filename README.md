@@ -11,6 +11,7 @@ We encourage everyone interested in contributing to Outreach efforts and proposi
 ## Repo
 This repo is the location for all open and complete projects and tasks being worked on across the Outreach team working groups. 
 Work is tracked through [issues](https://github.com/eea-oasis/baseline-outreach/issues) and [projects](https://github.com/eea-oasis/baseline-outreach/projects) for transparent and up to date statuses of items.  
+
 Coming Soon-‘Materials’ folder with enablement and pitch decks, community member starter kits, and more. 
 
 
