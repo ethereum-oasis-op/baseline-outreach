@@ -1,10 +1,9 @@
 ---
-name: 'Work Item Tracking - Issue Template '
+name: 'Work Item Tracking Issue Template '
 about: Issue template for tracking work items in the Outreach team
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 <!--- Please use the label section below to specify the state of item and work group that is working on the issue -->
