@@ -10,6 +10,8 @@
 
 # Definition of 'Done'
 <!--- Criteria for completing item -->
+- [ ]
 
 # Steps
 <!--- Describe steps for competing this item -->
+1. 
