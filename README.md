@@ -22,13 +22,6 @@ Coming Soon-‘Materials’ folder with enablement and pitch decks, community me
 
 * [Get Involved](<https://www.baseline-protocol.org/get-involved/>): View the descriptions of the open source teams, and sign up to join the next session!
 
-
-## Work Tracking
-Outreach work is tracked using GitHub’s projects and issues functions for transparent and up to date statuses of items.  
-<br>
-
-
-
 </br>
 
 #### Questions? 
