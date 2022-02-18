@@ -3,7 +3,7 @@
 ## About the Team
 The Baseline Outreach team is a group of seasoned community members focused on communicating, advocating, and educating the world on the advantages of using and contributing to the Baseline Protocol. Our mission is to help others understand and share the value of Baseline through use case specific enablement materials, pitch decks for various personas, and other collateral. These resources enable others to engage colleagues, decision makers, and business leadership on the capabilities of the protocol.
 
-The Outreach team is split into working groups with focused objectives, which includes devising enablement and pitch decks for specific companies use cases, creating marketing and social media content, and onboarding new members of the community. Learn more about workgroups [here](https://drive.google.com/drive/folders/1DbbFwNTizz3HqQ9DIFFGAva9FmsKmZ97?usp=sharing)
+The Outreach team is split into working groups with focused objectives, which includes devising enablement and pitch decks for specific companies use cases, creating marketing and social media content, and onboarding new members of the community. Learn more about workgroups [here](https://drive.google.com/drive/folders/1DbbFwNTizz3HqQ9DIFFGAva9FmsKmZ97?usp=sharing).
 
 We encourage everyone interested in contributing to Outreach efforts and proposing new ones, to [join the team](https://www.signupgenius.com/go/baselineoutreachteam)!
 
