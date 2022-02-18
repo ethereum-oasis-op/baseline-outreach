@@ -1,4 +1,9 @@
-<!--- Please use the label section to specify the state of item and work group that is working on the issue -->
+# Steps
+1. Assignees - assign to community members responsible for work, leave blank if unknown
+2. Add labels -  specify the state of item (ex. 'To do') and work group that is working on the issue (purple labels)
+3. Project --> assign to 'Baseline Outreach team' project
+4. Milestone - add to '2022 Outreach Items' milestone
+5. Complete the fields below
 
 <!--- Issue comments will be used for logging updates and labels will be used for tracking status and work group responsible for current stage -->
 
@@ -14,4 +19,4 @@
 
 # Steps
 <!--- Describe steps for competing this item -->
-1. Sample
+[ ] Sample
