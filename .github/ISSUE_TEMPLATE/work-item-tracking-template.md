@@ -5,8 +5,6 @@
 4. Milestone - add to '2022 Outreach Items' milestone
 5. Complete the fields below
 
-<!--- Issue comments will be used for logging updates and labels will be used for tracking status and work group responsible for current stage -->
-
 # Item
 <!--- Few words to describe work item-->
 
@@ -19,4 +17,7 @@
 
 # Steps
 <!--- Describe steps for competing this item -->
-[ ] Sample
+- [ ] Sample
+
+# Updates 
+Issue comments will be used for logging updates and labels will be used for current tstatus and work group responsible for current stage.
