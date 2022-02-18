@@ -18,6 +18,8 @@ Coming Soon-‘Materials’ folder with enablement and pitch decks, community me
 ## Resources
 * [Outreach Team Drive](<https://drive.google.com/drive/folders/1DbbFwNTizz3HqQ9DIFFGAva9FmsKmZ97?usp=sharing>): View the working documents, marketing initiatives, and enablement material to pitch baseline to various personas. 
 
+* Outreach members can apply to recieve grant funds for their work [here](https://github.com/eea-oasis/baseline-grants)
+
 * [Slack](<https://join.slack.com/t/ethereum-baseline/shared_invite/zt-d6emqeci-bjzBsXBqK4D7tBTZ40AEfQ>): Join the Slack & say hello in the #Outreach channel! 
 
 * [Get Involved](<https://www.baseline-protocol.org/get-involved/>): View the descriptions of the open source teams, and sign up to join the next session!
