@@ -21,3 +21,8 @@
 
 # Updates 
 Issue comments will be used for logging updates and labels will be used for current tstatus and work group responsible for current stage.
+
+# Grants
+Outreach work items that are related to an [approved grant project](https://github.com/eea-oasis/baseline-grants) require updates by the 1st of each month by adding a comment on this issue with a detailed update on progress, roadblocks, and any comments.
+
+
