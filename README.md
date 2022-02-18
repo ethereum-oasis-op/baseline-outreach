@@ -25,4 +25,4 @@ Coming Soon-‘Materials’ folder with enablement and pitch decks, community me
 </br>
 
 #### Questions? 
-Ask in [slack](<https://join.slack.com/t/ethereum-baseline/shared_invite/zt-d6emqeci-bjzBsXBqK4D7tBTZ40AEfQ>) or e-mail at baseline-team@oasis-open.org
+Ask in [in the #outreach team slack](<https://join.slack.com/t/ethereum-baseline/shared_invite/zt-d6emqeci-bjzBsXBqK4D7tBTZ40AEfQ>) or e-mail at baseline-team@oasis-open.org
