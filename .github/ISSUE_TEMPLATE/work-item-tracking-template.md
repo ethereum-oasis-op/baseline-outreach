@@ -28,7 +28,7 @@ Describe steps for competing this item
 ---
 
 # Updates 
-Issue comments will be used for logging updates and labels will be used for current tstatus and work group responsible for current stage.
+Issue comments will be used for logging updates and labels will be used for current status and work group responsible for current stage.
 
 ---
 
